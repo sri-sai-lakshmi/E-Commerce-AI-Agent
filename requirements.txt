@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+python-dotenv
+mysql-connector-python
+sqlalchemy
+pandas
+duckduckgo-search
