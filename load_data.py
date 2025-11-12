@@ -7,7 +7,7 @@ import glob
 # --- CONFIGURATION ---
 # !!! **UPDATE THESE VALUES** !!!
 DB_USER = "root" 
-DB_PASSWORD = "SR11**sa" # Your MySQL password
+DB_PASSWORD = "" # Your MySQL password
 DB_HOST = "localhost"
 DB_PORT = "3306"
 DB_NAME = "olist_db"
